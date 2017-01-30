@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+}
+
+ol {
+	margin-left:auto; 
+	margin-right:auto; 
+	text-align:left; 
+	border:3px solid red; 
+	width : 400px;
+}
+
+div.a {
+width: 25px;
+height:120px;
+background-color:yellow;
+border:2px solid orange;
+position:fixed;    
+}
