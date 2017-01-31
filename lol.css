@@ -17,3 +17,8 @@ background-color:yellow;
 border:2px solid orange;
 position:fixed;    
 }
+
+span { 
+    display: inline-block; 
+    position: absolute;
+}

@@ -21,5 +21,4 @@ function animateDiv(){
     $('.a').animate({ top: newq[0], left: newq[1] }, function(){
       animateDiv();        
     });
-    
-};
+ };   
